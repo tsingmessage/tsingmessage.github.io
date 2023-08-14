@@ -10,7 +10,7 @@ email: x.liu.1@erasmusmc.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate at Erasmus MC.
 footer_text: >
-  I am currently working as a PhD candidate at Erasmus Medical Center. My resaerch work focuses on the interpretability and confounding problems in machine learning, with application in clinical application.
+  None
 keywords: machine/deep learning, interpretability, confounders, imaging genetics, epidemiological studies  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
