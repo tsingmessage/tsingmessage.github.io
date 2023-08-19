@@ -14,7 +14,7 @@ profile:
     <p>Rotterdam, Netherlands</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: False  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -23,8 +23,8 @@ I am a PhD researcher at the Biomedical Imaging Group Rotterdam [(BIGR)](https:/
 
 I mainly work on the interpretability and confounding problems in machine learning and deep learning, with applications in population-based genetic and epidemiological studies.
 
-[Github](https://github.com/tsingmessage)
-[LinkedIn](https://www.linkedin.com/in/xianjing-liu-330746107/)
+[Github](https://github.com/tsingmessage)  
+[LinkedIn](https://www.linkedin.com/in/xianjing-liu-330746107/)  
 [Google scholar](https://scholar.google.com/citations?user=m2qycVQAAAAJ&hl=en).
 
-Website is not finished... To be done.
+To be done for other subpages...
