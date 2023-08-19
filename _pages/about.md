@@ -23,8 +23,8 @@ I am a PhD researcher at the Biomedical Imaging Group Rotterdam [(BIGR)](https:/
 
 I mainly work on the interpretability and confounding problems in machine learning and deep learning, with applications in population-based genetic and epidemiological studies.
 
-Github [Font Awesome icons](https://github.com/tsingmessage)
-LinkedIn [Font Awesome icons](https://www.linkedin.com/in/xianjing-liu-330746107/)
-Google scholar[Academicons](https://scholar.google.com/citations?user=m2qycVQAAAAJ&hl=en).
+[Github](https://github.com/tsingmessage)
+[LinkedIn](https://www.linkedin.com/in/xianjing-liu-330746107/)
+[Google scholar](https://scholar.google.com/citations?user=m2qycVQAAAAJ&hl=en).
 
 Website is not finished... To be done.
