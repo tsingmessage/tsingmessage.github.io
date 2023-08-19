@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2023-07-21 00:00:00-0000
-inline: true
+title: My paper 'Association between prenatal alcohol exposure and children's facial shape' has been reposted by over 400 news stories shortly after its press release.
+date: 2023-02-16 16:11:00-0400
+inline: false
 related_posts: false
 ---
 
-I gave an oral presentation in Deep Learning Summer School Gran Canaria 2023 :sparkles: :smile:
+See details in the link below:
+
+***
+
+ <a href="https://oxfordjournals.altmetric.com/details/142598354/news">Altmetric</a> 
