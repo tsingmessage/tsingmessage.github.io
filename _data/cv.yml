@@ -2,21 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xianjing Liu
     - name: Languages
-      value: English, German
+      value: English, Chinese (Mandarin), Chinese (Cantonese)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Erasmus University Rotterdam
+      year: 2019-2023
+      description: Deep learning with applications to 3D facial shape analysis
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -72,18 +68,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
