@@ -10,15 +10,15 @@ email: x.liu.1@erasmusmc.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate at Erasmus MC.
 footer_text: >
-  None
+  I am currently working as a PhD candidate at Erasmus Medical Center. My resaerch work focuses on the interpretability and confounding problems in machine learning, with application in clinical application.
 keywords: machine/deep learning, interpretability, confounders, imaging genetics, epidemiological studies  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://tsingmessage.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: True # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Xianjing]
-  first_name: [Liu]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
