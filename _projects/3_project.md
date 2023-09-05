@@ -3,7 +3,7 @@ layout: page
 title: AI-based association analysis for medical imaging using latent-space geometric confounder correction
 description: We developed a novel AI tool to overcome the interpretability and confounding issues in deep-learning-based association analysis.
 img: assets/img/0031.jpg
-importance: 1
+importance: 3
 category: methodology
 related_publications: 24th international conference on Medical Image Computing and Computer Assisted Intervention
 ---

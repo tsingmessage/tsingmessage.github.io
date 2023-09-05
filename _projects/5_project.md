@@ -3,7 +3,7 @@ layout: page
 title: GWAS on facial endophenotypes
 description: A fully data-driven approach for GWAS on image-based phenotypes
 #img: assets/img/0051.jpg
-importance: 1
+importance: 5
 category: application
 related_publications: einstein1956investigations, einstein1950meaning
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Geometric deep learning on 3D mesh for derivation of endophenotypes
 description: AI endophenotypes were derived, and conventional statistical analysis can be applied to these endophenotypes, in scenarios of epidemiological or genetic studies.
 img: assets/img/0021.jpg
-importance: 1
+importance: 2
 category: methodology
 related_publications: einstein1956investigations, einstein1950meaning
 ---
