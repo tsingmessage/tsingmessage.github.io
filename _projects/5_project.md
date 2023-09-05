@@ -19,5 +19,5 @@ Figure below shows the Manhattan plot of our c-GWAS results, together with facia
     </div>
 </div>
 <div class="caption">
-    Manhattan plot of our c-GWAS results.
+    Manhattan plot of our c-GWAS results. Red areas refer to inward changes while blue areas refer to outward changes of the face with respect to the geometric center of the head.
 </div>

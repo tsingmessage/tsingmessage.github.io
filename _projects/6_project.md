@@ -14,16 +14,6 @@ Efficient identification of individuals at high risk of skin cancer is crucial f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/0063.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Statistically significant facial endophenotypes in survival analysis are associated with known risk factors, in the analysis of skin cancer on any location of the body. The x-axis represents the different risk factors, while the y-axis represents the index of facial endophenotypes that exhibited statistical significance in the survival analysis. The "sum" row represents the summation of each row. The values of associations are normalized from -1 to 1 for each column, where red indicates a positive association, indicating a higher risk of skin cancer associated with higher values of the corresponding risk factor, such as age.
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/0062.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

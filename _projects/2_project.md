@@ -18,5 +18,5 @@ After the registration of the facial images, each facial mesh has the same verte
     </div>
 </div>
 <div class="caption">
-    Left: Interpreting the representation of one endophenotype via decoding. Right: Visual interpretation of endophenotypes sorted from major to minor effects on the face.
+    Left: Interpreting the representation of one endophenotype via decoding. Right: Visual interpretation of endophenotypes sorted from major to minor effects on the face. Red areas refer to inward changes while blue areas refer to outward changes of the face with respect to the geometric center of the head.
 </div>
