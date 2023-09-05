@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: We developed an automated pipeline for quantifying facial asymmetry from three-dimensional craniofacial images.
-img: assets/img/project_MFA.jpg
+img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

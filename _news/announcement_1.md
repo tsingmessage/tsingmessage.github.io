@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper 'Projection-wise disentangling for fair and interpretable learning' is accepted for MICCAI 2021.
+My paper 'Projection-wise disentangling for fair and interpretable learning' is accepted in <a href="https://www.miccai2021.org/en/">MICCAI 2021</a>.
