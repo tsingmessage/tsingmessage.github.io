@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survival analysis
-description: Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study
+description: Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach. a proof-of-concept study
 #img: assets/img/0061.jpg
 importance: 6
 category: application
