@@ -4,7 +4,7 @@ title: skin cancer risk prediction
 description: Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study
 #img: assets/img/0061.jpg
 importance: 1
-category: work
+category: application
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

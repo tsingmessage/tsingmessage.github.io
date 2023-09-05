@@ -4,7 +4,7 @@ title: Automated three-dimensional analysis of facial asymmetry
 description: We developed an automated pipeline for quantifying facial asymmetry from three-dimensional craniofacial images.
 img: assets/img/0011.jpg
 importance: 1
-category: work
+category: methodology
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

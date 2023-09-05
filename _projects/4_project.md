@@ -4,8 +4,8 @@ title: Association between prenatal alcohol exposure and children’s facial sha
 description: Which level of prenatal alcohol exposure (PAE) is associated with children’s facial shape at different lifetimes?
 #img: assets/img/0041.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: application
+related_publications: humrep.38.961
 ---
 
 High levels of PAE during pregnancy can have significant adverse associations with a child's health development resulting in recognizably abnormal facial development.
