@@ -10,7 +10,7 @@ email: x.liu.1@erasmusmc.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computer vision researcher with rich academic and industrial experience.
 footer_text: >
-  Computer vision researcher with rich academic and industrial experience.
+  
 keywords: machine/deep learning, interpretability, confounders, imaging genetics, epidemiological studies  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
