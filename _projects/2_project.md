@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geometric deep learning
-description: AI-based Facial endophenotypes were derived via geometric deep learning on facial mesh, and conventional statistical analysis can be applied to these endophenotypes, in scenarios of epidemiological or genetic studies.
+description: AI-based facial endophenotypes were derived via geometric deep learning on facial mesh, and conventional statistical analysis can be applied to these endophenotypes, in scenarios of epidemiological or genetic studies.
 img: assets/img/0021.png
 importance: 2
 category: methodology
