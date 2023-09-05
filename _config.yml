@@ -8,7 +8,7 @@ middle_name:
 last_name: Liu
 email: x.liu.1@erasmusmc.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD candidate at Erasmus MC.
+  Computer vision researcher with rich academic and industrial experience.
 footer_text: >
 
 keywords: machine/deep learning, interpretability, confounders, imaging genetics, epidemiological studies  # add your own keywords or leave empty
