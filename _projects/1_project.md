@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: We developed an automated pipeline for quantifying facial asymmetry from three-dimensional craniofacial images. The process begins by taking the facial shape of each subject as input, after which a mirrored reflection is generated. This mirrored image was then automatically aligned with the input via rigid registration. The vertex-wise distance between these two aligned facial shapes was then computed. Finally, two quantitative outcomes were produced for each subject: 1) a facial heatmap based on the distance where zero-error regions are perfectly symmetric while higher-error regions are more asymmetric; 2) a mean facial asymmetry (MFA) based on the mean of the error. This pipeline has been implemented as an inline function within [CraniumPy](https://github.com/T-AbdelAlim/CraniumPy).
+img: assets/img/project_MFA.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
