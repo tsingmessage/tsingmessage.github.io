@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Genatic studies
-description: A fully data-driven approach for genome-wide-association stuides (GWAS) on image-based phenotypes
+title: Genetic studies
+description: A fully data-driven approach for genome-wide-association stuides (GWAS) with image-based phenotypes
 #img: assets/img/0051.jpg
 importance: 5
 category: application
