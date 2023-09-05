@@ -1,80 +1,31 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Association between prenatal alcohol exposure and children’s facial shape
+description: Which level of prenatal alcohol exposure (PAE) is associated with children’s facial shape at different lifetimes?
+#img: assets/img/0041.jpg
+importance: 1
+category: work
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+High levels of PAE during pregnancy can have significant adverse associations with a child's health development resulting in recognizably abnormal facial development.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Is there an association between low-to-moderate levels of prenatal alcohol exposure (PAE) and children’s facial shape?
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This study was based on the Generation R Study, a prospective cohort from fetal life onwards with maternal and offspring data. We analyzed children 3-dimensional (3D) facial images taken at ages 9 (n = 3149) and 13 years (n = 2477) together with the data of maternal alcohol consumption.
+
+We defined six levels of PAE based on the frequency and dose of alcohol consumption and defined three tiers based on the timing of alcohol exposure of the unborn child. For the image analysis, we used 3D graph convolutional networks for non-linear dimensionality reduction, which compressed the high-dimensional images into 200 traits representing facial morphology. These 200 traits were used for statistical analysis to search for associations with PAE. Finally, we generated heatmaps to display the facial phenotypes associated with PAE.
+
+The results of the linear regression in the 9-year-old children survived correction for multiple testing with false discovery rate (FDR). No FDR-significant results were found in the 13-year-old children. We map these significant traits back to the face, and found the most common detected facial phenotypes included turned-up nose tip, shortened nose, turned-out chin, and turned-in lower-eyelid-related regions.
+
+Our results imply that facial morphology, such as quantified by the approach we proposed here, can be used as a biomarker in further investigations. Furthermore, our study suggests that for women who are pregnant or want to become pregnant soon, should quit alcohol consumption several months before conception and completely during pregnancy to avoid adverse health outcomes in the offspring.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/0042.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Main outcome.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
