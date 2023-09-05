@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GWAS on facial endophenotypes
-description: A fully data-driven approach for GWAS on image-based phenotypes
+title: Genatic studies
+description: A fully data-driven approach for genome-wide-association stuides (GWAS) on image-based phenotypes
 #img: assets/img/0051.jpg
 importance: 5
 category: application

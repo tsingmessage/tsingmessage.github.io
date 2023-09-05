@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Association between prenatal alcohol exposure and children’s facial shape
-description: Which level of prenatal alcohol exposure (PAE) is associated with children’s facial shape at different lifetimes?
+title: Epidemiological studies
+description: Association between prenatal alcohol exposure and children’s facial shape
 #img: assets/img/0041.jpg
 importance: 4
 category: application
