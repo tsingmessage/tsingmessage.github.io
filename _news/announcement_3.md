@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-See details in the link below:
+See details from the <a href="https://oxfordjournals.altmetric.com/details/142598354/news">Altmetric</a> link.
 
 ***
-
- <a href="https://oxfordjournals.altmetric.com/details/142598354/news">Altmetric</a> 
