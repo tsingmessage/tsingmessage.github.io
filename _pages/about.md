@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at Erasmus MC
+subtitle: Computer vision researcher with rich academic and industrial experience.
 
 profile:
   align: right

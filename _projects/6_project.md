@@ -1,23 +1,22 @@
 ---
 layout: page
-title: GWAS on facial endophenotypes
-description: A fully data-driven approach for GWAS on image-based phenotypes
-#img: assets/img/0051.jpg
+title: survival analysis
+description: Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study
+#img: assets/img/0061.jpg
 importance: 6
 category: application
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-This study introduces a pioneering pipeline that combines AI-driven image phenotyping with combine-GWAS ([C-GWAS](https://www.nature.com/articles/s41467-022-35328-9)) techniques to enhance the genome-wide association studies (GWAS) of image-based complex traits. Conventional GWAS struggles with image-based phenotypes due to its reliance on 1-dimensional traits and huge number of redundant phenotypes defined. To overcome this limitation, we leverage AI-generated endophenotypes as proxies for complex image traits. Unlike previous data-driven endophenotype approaches, our method integrates C-GWAS to establish a robust connection between (the combined) endophenotypes and genetic variants. Applied to facial shape data from the combined of two cohorts (N=7,309), our approach uncovers total 43 genomic loci and with their visual correlates via facial heatmaps and 12 of them are novel. Significantly, C-GWAS outperforms single-trait GWAS in AI endophenotypes. Furthermore, we address privacy concerns in multi-cohort studies by implementing federated learning techniques, eliminating the needs for data sharing. This innovative pipeline offers a comprehensive solution for studying image-based complex traits within the GWAS framework.
+Efficient identification of individuals at high risk of skin cancer is crucial for implementing personalized screening. We present a neural network-based explainable artificial intelligence (XAI) approach for skin cancer risk prediction based on facial endophenotypes obtained from 2D facial images, and compare its efficacy to 18 established skin cancer risk factors using data from the Rotterdam Study. Among the 2,810 participants (mean Age=68.5 ± 9.3 years, average Follow-up=5.0 years), 228 participants were diagnosed with skin cancer at various body locations after photo acquisition. In the skin cancer survival analysis, our XAI approach achieved superior predictive accuracy based on facial endophenotypes (c-index=0.72, SD=0.05) for skin cancer diagnosis on any body location, outperforming that of the known risk factors (c-index=0.59, SD=0.03)Furthermore, our XAI techniques indicated facial features such as a lower BMI and increased facial erythema are linked with higher risk of developing skin cancer. This proof-of-concept study underscores the high potential of harnessing facial images and a tailored AI approach as an advanced predictive alternative over known risk factors for identifying individuals at high risk of skin cancer.
 
-Figure below shows the Manhattan plot of our c-GWAS results, together with facial phenotypes associated with each leading SNP. In total of 43 genomic loci were identified, of which 12 have not been previously reported in existing studies.Table x shows details about the 43 genomic loci.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/0052.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/0062.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Manhattan plot of our c-GWAS results. Red areas refer to inward changes while blue areas refer to outward changes of the face with respect to the geometric center of the head.
+    Reconstruction of faces representing lower to higher risk for developing skin cancer on the face, and other body locations excluding the face, as well as anywhere on the body including the face. The synthetic faces shown in the figure were reconstructed via selectively decoding statistically significant facial endophenotypes in the survival analysis.
 </div>
