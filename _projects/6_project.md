@@ -1,6 +1,6 @@
 ---
 layout: page
-title: survival analysis
+title: Survival analysis
 description: Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study
 #img: assets/img/0061.jpg
 importance: 6
@@ -14,7 +14,7 @@ Efficient identification of individuals at high risk of skin cancer is crucial f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/0062.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/0062.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
