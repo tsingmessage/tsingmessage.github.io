@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2023-02-16 16:11:00-0400
+date: 2022-10-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
-My paper 'Association between prenatal alcohol exposure and children's facial shape' is accepted by Human Reproduction, and has been reposted by over <a href="https://oxfordjournals.altmetric.com/details/142598354/news">400 news stories</a> shortly after its press release.
 
-
-***
+My coauthor paper <a href="https://www.sciencedirect.com/science/article/pii/S2588931122001110">Worldwide distribution, risk factors, and temporal trends of testicular cancer incidence and mortality: A global analysis</a> is accepted by European Urology Oncology.

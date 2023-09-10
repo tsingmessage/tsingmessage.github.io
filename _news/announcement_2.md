@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2022-09-21 00:00:00-0000
+date: 2021-06-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave an oral presentation in European Society of
-Craniofacial Surgery (<a href="https://escfs2022.com/">ESCFS</a>), Oxford, UK, 2022 :sparkles: :smile:
+My paper 'Projection-wise disentangling for fair and interpretable learning' is accepted in <a href="https://www.miccai2021.org/en/">MICCAI 2021</a>.
