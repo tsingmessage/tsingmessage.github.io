@@ -9,6 +9,7 @@ related_publications: 24th international conference on Medical Image Computing a
 ---
 
 AI has greatly enhanced medical image analysis, yet its use in epidemiological imaging studies remains limited due to visualization challenges in non-linear models and confounder control. Addressing this, we introduce an AI method emphasizing semantic feature interpretation and resilience against multiple confounders. Our approach's merits are tested in three scenarios: 1) extracting confounder-free features from a 2D synthetic dataset; 2) assessing the link between prenatal alcohol exposure and children's facial shapes using 3D mesh data; 3) exploring the relationship between global cognition and brain images with a 3D MRI dataset.
+
 The scripts for this project can be found in <a href="https://gitlab.com/radiology/compopbio/ai_based_association_analysis">this Gitlab link</a>.
 
 
