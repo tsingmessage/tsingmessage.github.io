@@ -4,7 +4,7 @@ title: Available project for Master thesis
 description: 10-month master thesis project
 #img: assets/img/0061.jpg
 importance: 7
-category: application
+category: vacancies
 related_publications:
 ---
 I have an available 10-month project for master thesis. Please contact [me](https://tsingmessage.github.io/) if you are interested in it or have any questions.
