@@ -10,7 +10,7 @@ related_publications:
 I have an available 10-month project for master thesis. Please contact [me](https://tsingmessage.github.io/) if you are interested in it or have any questions.
 
 Research question:<br>
-Methodology-wise: to develop a novel algorithm for analyzing association between two high-dimensional (e.g., image) domains
+Methodology-wise: to develop a novel algorithm for analyzing association between two high-dimensional (e.g., image) domains <br>
 Application-wise: to explore the association between hand skeleton (growing) and facial morphology (development), and link it with genetics
 
 Data set:<br>
