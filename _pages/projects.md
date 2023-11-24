@@ -5,7 +5,7 @@ permalink: /projects/
 description: My recent projects.
 nav: true
 nav_order: 2
-display_categories: [methodology, application]
+display_categories: [methodology, application, vacancies]
 horizontal: false
 ---
 
