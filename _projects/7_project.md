@@ -14,8 +14,8 @@ Methodology-wise: to develop a novel algorithm for analyzing association between
 Application-wise: to explore the association between hand skeleton (growing) and facial morphology (development), and link it with genetics
 
 Data set:<br>
-Sevearl thousands of hand skeleton x-ray image (at 9 and 13 years), 3D facial mesh image (at 9 and 13 years) and SNP-based genotype data for each subject, from the [Generation R Study](https://pubmed.ncbi.nlm.nih.gov/16826450/).<br>
-Sevearl thousands of hand skeleton x-ray image (age > 50), 3D facial mesh image (age > 50) and SNP-based genotype data for each subject, from the [Rotterdam Study](https://link.springer.com/article/10.1007/s10654-017-0321-4).
+Sevearl thousands hand skeleton x-ray images (at 9 and 13 years), 3D facial mesh images (at 9 and 13 years) and whole-genome SNP-based genotype data for each subject, from the [Generation R Study](https://pubmed.ncbi.nlm.nih.gov/16826450/).<br>
+Sevearl thousands hand skeleton x-ray images (age > 50), 3D facial mesh images (age > 50) and whole-genome SNP-based genotype data for each subject, from the [Rotterdam Study](https://link.springer.com/article/10.1007/s10654-017-0321-4).
 
 Methods:<br>
 Explainable Deep learning, confounder control, image analysis, genome-wide-association study (GWAS)
