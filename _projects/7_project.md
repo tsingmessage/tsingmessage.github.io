@@ -7,7 +7,7 @@ importance: 7
 category: vacancies
 related_publications:
 ---
-I have an available 10-month project for master thesis. Please contact [me](https://tsingmessage.github.io/) if you are interested in it or you have any questions.
+I have an available 10-month project for master thesis. You will be working with me, [Gennady](https://www.roshchupkin.org/) and [Joyce](https://www.erasmusmc.nl/en/research/researchers/meurs-joyce-van). Please contact [me](https://tsingmessage.github.io/) if you are interested in it or you have any questions.
 
 Research question:<br>
 Methodology-wise: to develop a novel algorithm for analyzing associations between two high-dimensional (e.g., image) domains <br>
