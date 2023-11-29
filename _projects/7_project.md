@@ -24,9 +24,9 @@ Phase I: To explore the connection between the hand skeleton (e.g., length of th
 2. Derive measurements from the facial mesh image. This part was done already.<br>
 3. Perform analysis to calculate the connection between hand measurements and facial measurements. <br>
 Phase II: To further explore the grow patterns of the connection, in 9 to 13 years old children data<br>
-  To be explored...<br>
+...To be explored<br>
 Phase III: If there exist some connections, try to explain the underlying mechanism (e.g., genetic determinants)<br>
-  To be explored...<br>
+...To be explored<br>
 Please also note that Phase I is enough for a master thesis. <br>
 
 
