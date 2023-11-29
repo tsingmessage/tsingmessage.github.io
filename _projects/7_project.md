@@ -20,13 +20,13 @@ Sevearl thousands hand skeleton X-ray images (age > 50), 3D facial mesh images (
 Datailed Tasks:<br>
 This project is divided into 3 phase:<br>
 Phase I: To explore the connection between the hand skeleton (e.g., length of the finger) and facial morphology<br>
- Step 1: Develop a pipeline to automatically derive measurements (e.g, length of the finger) from x-ray hand skeleton image<br>
- Step 2: Derive measurements from the facial mesh image. This part was done already.<br>
- Step 3: Perform analysis to calculate the connection between hand measurements and facial measurements. <br>
+  Step 1: Develop a pipeline to automatically derive measurements (e.g, length of the finger) from x-ray hand skeleton image<br>
+  Step 2: Derive measurements from the facial mesh image. This part was done already.<br>
+  Step 3: Perform analysis to calculate the connection between hand measurements and facial measurements. <br>
 Phase II: To further explore the grow patterns of the connection, in 9 to 13 years old children data<br>
- To be explored...<br>
+  To be explored...<br>
 Phase III: If there exist some connections, try to explain the underlying mechanism (e.g., genetic determinants)<br>
- To be explored...<br>
+  To be explored...<br>
 Please also note that Phase I is enough for a master thesis. <br>
 
 
@@ -36,11 +36,11 @@ Preferred background in statistics, genetics, epidemiology, computer science, bi
 
 
 Reference:<br>
-Genome-wide association of phenotypes based on clustering patterns of hand osteoarthritis identify WNT9A as novel osteoarthritis gene. [ANNALS OF THE RHEUMATIC DISEASES](https://ard.bmj.com/content/80/3/367)<br>
-Genome-wide association study identifies nine novel loci for 2D:4D finger ratio, a putative retrospective biomarker of testosterone exposure in utero [Hum Mol Genet.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961159/)<br>
-Novel genetic loci affecting facial shape variation in humans [elife](https://elifesciences.org/articles/49898v1)<br>
-Association between prenatal alcohol exposure and children’s facial shape. A prospective population-based cohort study. [Human reproduction](https://doi.org/10.1093/humrep/dead006)<br>
-Automated Bone Age Assessment based on DXA scans for a variety of ethnicities using Deep Transfer Learning. [Master thesis](https://repository.tudelft.nl/islandora/object/uuid:9009e4af-1d2e-446c-a083-6ad07c809e06)
+1. Genome-wide association of phenotypes based on clustering patterns of hand osteoarthritis identify WNT9A as novel osteoarthritis gene. [ANNALS OF THE RHEUMATIC DISEASES](https://ard.bmj.com/content/80/3/367)<br>
+2. Genome-wide association study identifies nine novel loci for 2D:4D finger ratio, a putative retrospective biomarker of testosterone exposure in utero [Hum Mol Genet.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961159/)<br>
+3. Novel genetic loci affecting facial shape variation in humans [elife](https://elifesciences.org/articles/49898v1)<br>
+4. Association between prenatal alcohol exposure and children’s facial shape. A prospective population-based cohort study. [Human reproduction](https://doi.org/10.1093/humrep/dead006)<br>
+5. Automated Bone Age Assessment based on DXA scans for a variety of ethnicities using Deep Transfer Learning. [Master thesis](https://repository.tudelft.nl/islandora/object/uuid:9009e4af-1d2e-446c-a083-6ad07c809e06)<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
