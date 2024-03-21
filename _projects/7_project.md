@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Available project for Master thesis
+title: Available project#1 for Master thesis
 description: 10-month master thesis project
 #img: assets/img/0061.jpg
 importance: 7
