@@ -12,6 +12,15 @@ This study introduces a pioneering pipeline that combines AI-driven image phenot
 
 Figure below shows the Manhattan plot of our c-GWAS results, together with facial phenotypes associated with each leading SNP. In total of 43 genomic loci were identified, of which 12 have not been previously reported in existing studies.Table x shows details about the 43 genomic loci.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/0051.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The framework of our pipeline, including AI-based phenotyping, single-trait GWAS, and C-GWAS.
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
