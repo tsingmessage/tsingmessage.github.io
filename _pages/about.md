@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 -----------------------------------------------------------------------
-Updates: I started to work as a postdoc since November 2023...
+Updates: Since November 2023 I started to work as a postdoc, which focuses more on the analysis of brain MRI, genomic and proteomic data.
 
 I am currently doing my PhD at the Biomedical Imaging Group Rotterdam [(BIGR)](https://bigr.nl/) at [Erasmus MC](https://www.erasmusmc.nl/en/) under the supervision of [Prof. Wiro J. Niessen](https://scholar.google.com/citations?user=jmKtufcAAAAJ&hl=en), [Prof. Eppo B. Wolvius](https://www.erasmusmc.nl/nl-nl/patientenzorg/zorgverleners/wolvius-eppo), and [Dr. Gennady V. Roshchupkin](https://www.roshchupkin.org/). Earlier, I’ve completed my Bachelors and Masters from [Shenzhen University](https://en.szu.edu.cn/), and gained industrial experience as a R&D engineer at [Shenzhen Wisonic Co., Ltd](https://www.wisonic.com/en/). and a computer vision researcher at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) in collaboration with [Esquel Group](https://www.esquel.com/).
 
