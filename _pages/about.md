@@ -6,7 +6,7 @@ subtitle: Machine Learning; Computer Vision; Population studies; Genetics; Epide
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Picture_Xianjing_Liu_full.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
