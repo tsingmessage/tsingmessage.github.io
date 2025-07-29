@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-17 10:11:00-0400
+date: 2025-07-16 10:11:00-0400
 inline: true
 related_posts: false
 ---
-I have been awarded the [Erasmus Trustfonds Grant](https://trustfonds.nl/) to support my upcoming two-month research visit to UiT – The Arctic University of Norway in Tromsø.
+An abstract was accepted for an oral presentation in [ESMRMB 2025](https://esmrmb2025.org/).
 ***
