@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 I have been awarded the [Erasmus Trustfonds Grant](https://trustfonds.nl/) to support my upcoming two-month research visit to UiT – The Arctic University of Norway in Tromsø.
+
 ***
