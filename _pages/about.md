@@ -27,7 +27,7 @@ I mainly work on the interpretability and confounding problems in deep learning,
 
 I have extensive collaborations. For internal collaborations within Erasmus MC, I work closely with [Manfred Kayser](https://www.erasmusmc.nl/en/research/researchers/kayser-manfred) from department of genetic identification, and [Marlies Wakkee](https://www.erasmusmc.nl/nl-nl/kankerinstituut/patientenzorg/zorgverleners/wakkee-marlies) from department of dermatology. For external collaborations, I work closely with the  school of public health of Harvard University, the school of public health and primary care of Chinese University of Hong Kong, and the school of design of Hong Kong Polytechnic University. Please find my [publication list](https://scholar.google.com/citations?user=m2qycVQAAAAJ&hl=en) for the research output from these collaborations.
 
-I am also active in educational activities. I have supervised 6 master students from Technical University of Delft (TUD) for 9-month thesis or 10-week internship.
+I am also active in educational activities. I have supervised 8 master students from Technical University of Delft (TUD) for 9-month thesis or 10-week internship.
 Feel free to contact me to explore opportunities!
 
 [Github](https://github.com/tsingmessage)  

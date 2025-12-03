@@ -4,6 +4,6 @@ date: 2025-07-16 10:11:00-0400
 inline: true
 related_posts: false
 ---
-An abstract was accepted for an oral presentation in [ESMRMB 2025](https://esmrmb2025.org/).
+I delivered an oral presentation for my work on 'Structural brain pathways linking white matter hyperintensities to pain sensitivity in the Rotterdam study' in [ESMRMB 2025](https://esmrmb2025.org/).
 
 ***
