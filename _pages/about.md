@@ -8,7 +8,7 @@ profile:
   align: right
   image: Picture_Xianjing_Liu_full.jpg
   image_circular: false # crops the image to make it circular
-  address:  email: xjliu@mpu.edu.mo
+  address:    xjliu@mpu.edu.mo
 
 
 news: true  # includes a list of news items
